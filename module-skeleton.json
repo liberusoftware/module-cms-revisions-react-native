@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-revisions-react-native",
+  "capabilityKey": "liberusoftware/module-cms-revisions",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-revisions-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/revisions.md",
+  "presentationPlan": "projects/cms/react-native/revisions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
